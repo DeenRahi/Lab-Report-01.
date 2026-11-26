@@ -1,3 +1,2 @@
-CSE 114 - Lab Report 01
-12 beginner-level C source files for the pattern experiments.
-Please run and verify each program before submitting.
+12 C experiments, source files and generated code/output visual panels.
+The PNG visuals are recreated from source code and actual GCC runs, not direct screenshots from a specific IDE.
